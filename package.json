@@ -13,6 +13,9 @@
     "type": "git",
     "url": "git@github.com:mozilla-comm/jsmime.git"
   },
+  "dependencies": {
+    "requirejs": "^2.2.0"
+  },
   "author": "",
   "license": "MIT",
   "bugs": {
